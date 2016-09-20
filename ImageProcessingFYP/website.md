@@ -20,6 +20,8 @@ OpenCV成长之路(9)：特征点检测与图像匹配:http://blog.csdn.net/cv_r
 
 ******我的OpenCV学习笔记（19）：检测轮廓，直线，圆以及直线拟合:http://blog.csdn.net/thefutureisour/article/details/7599537
 
+**** 【OpenCV入门指南】第三篇Canny边缘检测:http://blog.csdn.net/morewindows/article/details/8239625
+
 
 
 ===============Tutor site===============
@@ -30,13 +32,24 @@ OpenCV成长之路(9)：特征点检测与图像匹配:http://blog.csdn.net/cv_r
 
 ===============Documentation===============
 
+Visual Studio 2015配置OpenCV环境:http://lib.csdn.net/article/opencv/43987
 
 
+OpenCV配置于Qt软件:http://lib.csdn.net/article/opencv/35816
+
+ Opencv中的Mat类使用方法总结:http://blog.csdn.net/lhanchao/article/details/52356343
+ 
+ findContours函数参数说明及相关函数:http://blog.163.com/lee_020/blog/static/1247556020136473917915/
+ 
+ ***Opencv提取的轮廓怎么保存？:http://zhidao.baidu.com/link?url=m44lDjrbowwuwGHWzY-90f67qluW0ojddgUpVMSzcWN8NS77Qy1ForleMUKxTeJvWAK-KjGOOIVwksis81Ins8jQJbgU79FTFhFNCqU7bN_
+
+**[OpenCV] IplImage 和 Mat 互轉:https://cg2010studio.com/2013/03/22/opencv-iplimage-%E5%92%8C-mat-%E4%BA%92%E8%BD%89/
 
 
 
 
 ===============Theory===============
+
 OpenCV图像的轮廓的匹配:http://blog.sina.com.cn/s/blog_67a7426a0101cxl0.html
 
 
