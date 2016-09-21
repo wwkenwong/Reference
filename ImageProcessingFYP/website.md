@@ -22,9 +22,15 @@ OpenCV成长之路(9)：特征点检测与图像匹配:http://blog.csdn.net/cv_r
 
 **** 【OpenCV入门指南】第三篇Canny边缘检测:http://blog.csdn.net/morewindows/article/details/8239625
 
+***輪廓(findContours、drawContours):http://monkeycoding.com/?p=615
 
 
 ===============Tutor site===============
+
+Difference between “Edge Detection” and “Image Contours”: http://stackoverflow.com/questions/17103735/difference-between-edge-detection-and-image-contours
+
+
+Result issues with findContours:http://answers.opencv.org/question/9139/result-issues-with-findcontours/
 
 
 
