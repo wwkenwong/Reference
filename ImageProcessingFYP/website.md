@@ -33,6 +33,15 @@ Difference between “Edge Detection” and “Image Contours”: http://stackov
 Result issues with findContours:http://answers.opencv.org/question/9139/result-issues-with-findcontours/
 
 
+How to convert a std::string to const char* or char*?:http://stackoverflow.com/questions/347949/how-to-convert-a-stdstring-to-const-char-or-char
+
+Black color object detection HSV range in opencv:http://stackoverflow.com/questions/25398188/black-color-object-detection-hsv-range-in-opencv
+
+
+cuda with opencv:http://on-demand.gputechconf.com/gtc/2013/webinar/opencv-gtc-express-shalini-gupta.pdf
+
+http://on-demand.gputechconf.com/gtc/2013/webinar/gtc-express-itseez-opencv-webinar.pdf
+
 
 
 
