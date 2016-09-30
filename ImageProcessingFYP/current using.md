@@ -19,3 +19,10 @@ http://python.jobbole.com/81593/
 https://github.com/fatcloud/PyCV-time
 
 http://gogoprivateryan.blogspot.hk/2015/08/opencv-2-opencv-python.html
+
+
+QT:
+http://cutequick.blogspot.hk/2015/03/qt-002-qt-quick.html
+http://blog.csdn.net/xiaojidan2011/article/details/9421193
+http://blog.csdn.net/xiahouzuoxin/article/details/41692891
+http://blog.csdn.net/qiurisuixiang/article/details/8665278/
