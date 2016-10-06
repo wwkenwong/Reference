@@ -67,7 +67,10 @@ OpenCV配置于Qt软件:http://lib.csdn.net/article/opencv/35816
 
 OpenCV图像的轮廓的匹配:http://blog.sina.com.cn/s/blog_67a7426a0101cxl0.html
 
+==============QT CONFIG==============
+https://dotuyau.wordpress.com/2014/04/25/opencv_qt_windows/
 
+http://blog.csdn.net/qiurisuixiang/article/details/8665278/
 
 
 
