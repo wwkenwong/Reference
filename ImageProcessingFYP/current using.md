@@ -26,3 +26,10 @@ http://cutequick.blogspot.hk/2015/03/qt-002-qt-quick.html
 http://blog.csdn.net/xiaojidan2011/article/details/9421193
 http://blog.csdn.net/xiahouzuoxin/article/details/41692891
 http://blog.csdn.net/qiurisuixiang/article/details/8665278/
+
+
+using 11/10
+http://monkeycoding.com/?page_id=12
+http://monkeycoding.com/?tag=qt-%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C
+http://ccw1986.blogspot.hk/2013/09/learningopencv.html
+https://chenglearning.blogspot.hk/2013/11/qt1-qt-gui-application.html
