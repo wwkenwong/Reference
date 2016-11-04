@@ -26,3 +26,5 @@ https://github.com/mnielsen/neural-networks-and-deep-learning
 http://gen.lib.rus.ec/
 
 https://www.youtube.com/watch?v=1xnUlrgJJGo&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=7
+
+https://github.com/shihyu/python_ebook
